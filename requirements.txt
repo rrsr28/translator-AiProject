@@ -1,0 +1,6 @@
+pygame==2.0.1
+gtts==2.2.2
+streamlit==0.85.0
+speechrecognition==3.8.1
+googletrans==4.0.0-rc1
+playsound==1.2.2
